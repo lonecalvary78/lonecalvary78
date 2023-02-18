@@ -16,7 +16,7 @@ A self taight Application Engineer from Indonesia
 
 **SKILLS**
 
-***Language***
+***Languages***
 
 ![Java](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
