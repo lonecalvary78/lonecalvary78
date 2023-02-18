@@ -15,6 +15,7 @@ A self taight Application Engineer from Indonesia
  - Loves Cloud a lot, especially with Google Cloud 
 
 **SKILLS**
+
 ***Language***
 
 ![Java](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
