@@ -1,6 +1,6 @@
 
 <p align='center'>
-A self taight Application Engineer from Indonesia
+An Experienced Java Engineer from Indonesia
 </p>
 
 <p align='center'>
