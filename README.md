@@ -10,7 +10,7 @@ An Experienced Java Engineer from Indonesia
 </p>
 
 **ABOUT ME**
- - Working as an Application Engineer for 12 years in Kuala Lumpur, Malaysia
+ - Working as an Application Engineer for 16 years in Kuala Lumpur, Malaysia
  - I built some projects with Java but now I am exploring to build something in Go and Rust(soon)
  - Loves Cloud a lot, especially with Google Cloud 
 
