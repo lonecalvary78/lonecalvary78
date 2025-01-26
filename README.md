@@ -48,5 +48,7 @@ An Experienced Java Engineer from Indonesia
 
 ***Databases***
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=lonecalvary78&layout=compact
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
