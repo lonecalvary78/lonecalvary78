@@ -51,6 +51,6 @@ An Experienced Java Engineer from Indonesia
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lonecalvary78&show_icons=true&hide_border=true&custom_title=James%27s%20Stats" alt="lonecalvary78" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lonecalvary78&show_icons=true&hide_border=true&custom_title=Гунарді Сутанто' stats" alt="lonecalvary78" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonecalvary78&layout=compact" alt="lonecalvary78" />
