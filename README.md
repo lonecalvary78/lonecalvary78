@@ -16,6 +16,9 @@ An Experienced Java Engineer from Indonesia
 
 **SKILLS**
 
+***IDE***
+![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 ***Languages***
 
 ![Java](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,7 +28,6 @@ An Experienced Java Engineer from Indonesia
 
 ***Frameworks***
 
-![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)
 ![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -45,6 +47,7 @@ An Experienced Java Engineer from Indonesia
 ***Cloud***
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ***Databases***
 
