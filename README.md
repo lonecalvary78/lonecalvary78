@@ -54,5 +54,6 @@ An Experienced Java Engineer from Indonesia
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonecalvary78&layout=compact" alt="lonecalvary78" />
