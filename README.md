@@ -14,6 +14,12 @@ An Experienced Java Engineer from Indonesia
  - I built some projects with Java but now I am exploring to build something in Go and Rust(soon)
  - Loves Cloud a lot, especially with Google Cloud 
 
+**Past Experience**
+
+I have over 20 years of experience as a Java developer, beginning with 8 years in Indonesia, where I worked across various industries including banking, government, and insurance. In 2011, I moved to Kuala Lumpur, Malaysia, and have continued my career there for the past 14 years. During this time, I was primarily involved in projects with major local banks, focusing on the maintenance and enhancement of large-scale monolithic systems built using traditional J2EE technologies and frameworks such as JSP/Servlets, Struts, EJB, SOAP Web Services, Spring Framework, and Hibernate. However, the depth of my involvement in some projects was limited, as the scope of my role was mainly centered on maintenance and production support rather than new development.
+
+**
+
 **SKILLS**
 
 ***IDE***
