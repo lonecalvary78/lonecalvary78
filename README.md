@@ -19,7 +19,13 @@ An Experienced Java Engineer from Indonesia
 
 I have over 20 years of experience as a Java developer, beginning with 8 years in Indonesia, where I worked across various industries including banking, government, and insurance. In 2011, I moved to Kuala Lumpur, Malaysia, and have continued my career there for the past 14 years. During this time, I was primarily involved in projects with major local banks, focusing on the maintenance and enhancement of large-scale monolithic systems built using traditional J2EE technologies and frameworks such as JSP/Servlets, Struts, EJB, SOAP Web Services, Spring Framework, and Hibernate. However, the depth of my involvement in some projects was limited, as the scope of my role was mainly centered on maintenance and production support rather than new development.
 
-**
+**What new things I got in past year**
+
+I had the opportunity to work on a microservices project where I developed the core business service. In addition, I integrated a reporting service with a hybrid storage solution using the AWS SDK, as the storage system was compatible with S3. The entire service was designed following event-driven principles.
+
+In December, I joined a new company and was assigned to modernize a traditional loan system. This involved containerizing the application and deploying it to Amazon EKS (AWS-managed Kubernetes cluster). The application also integrates with several AWS services, including RDS Aurora for the database, S3 for storing generated reports and required documents, SES for email notifications, and CloudWatch for application monitoring.
+
+As my company operates as a consultant, deployments to the client’s environment are performed manually using Kubernetes manifests. Despite having no prior experience with AWS, I successfully completed the entire modernization and deployment process within four months through self-learning and hands-on implementation.   
 
 **SKILLS**
 
