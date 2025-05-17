@@ -27,7 +27,8 @@ In December, I joined a new company and was tasked with modernizing a legacy loa
 
 As the company operates in a consulting capacity, deployments to client environments were handled manually using Kubernetes manifests. Despite having no prior experience with AWS, I successfully completed the modernization and deployment process within four months through self-learning and hands-on implementation.   
 
-**Whant Next Steps***
+**Whant Next Steps**
+
 Recently, I’ve been exploring Helidon SE, a lightweight web framework developed by Oracle. What stood out to me is its simplicity and performance, but more importantly, its explicit and minimalistic design—there’s no dependency injection or hidden abstraction layers, which makes the codebase easier to reason about and debug. This level of control feels refreshing compared to heavier frameworks, and it’s inspired me to adopt Helidon SE for an upcoming side project where I want full visibility into how everything works under the hood. 
 
 **SKILLS**
