@@ -9,25 +9,21 @@ An Experienced Java Engineer from Indonesia
   </a>
 </p>
 
-**ABOUT ME**
- - Working as an Application Engineer for 14 years in Kuala Lumpur, Malaysia
- - I have developed several projects in Java and am currently exploring Rust for future endeavors
- - Loves Cloud a lot, especially with Google Cloud 
+**About Me**
+I’m an experienced Java engineer from Indonesia, currently based in Kuala Lumpur, Malaysia. With over 20 years in software development, I’ve worked across various industries, including banking, government, and insurance. My expertise lies in building and maintaining large-scale enterprise applications.
 
 
 **PAST EXPERIENCES**
 
 I have over 20 years of experience as a Java developer, beginning with 8 years in Indonesia, where I worked across various industries including banking, government, and insurance. In 2011, I moved to Kuala Lumpur, Malaysia, and have continued my career there for the past 14 years. During this time, I was primarily involved in projects with major local banks, focusing on the maintenance and enhancement of large-scale monolithic systems built using traditional J2EE technologies and frameworks such as JSP/Servlets, Struts, EJB, SOAP Web Services, Spring Framework, and Hibernate. However, the depth of my involvement in some projects was limited, as the scope of my role was mainly centered on maintenance and production support rather than new development.
 
-**WHAT NEW THINGS I EXPLORED IN LAST 2 YEARS**
+**Recent Endeavors**
 
-In August 2023, I had the opportunity to work on a microservices project where I developed the core business service. I also integrated a reporting service with a hybrid storage solution using the AWS SDK, leveraging its compatibility with Amazon S3. The entire system was built following event-driven architecture principles.
-
-In December, I joined a new company and was tasked with modernizing a legacy loan system. This project involved containerizing the application and deploying it to Amazon EKS (AWS-managed Kubernetes cluster). The application was also integrated with several AWS services, including RDS Aurora for the database, S3 for storing generated reports and documents, SES for email notifications, and CloudWatch for monitoring.
+In the past two years, I’ve embraced modern development practices, delving into microservices architecture, containerization with Docker and Kubernetes, and cloud deployments on AWS. Notably, I led the modernization of a legacy loan system, successfully transitioning it to a cloud-native solution on Amazon EKS.
 
 As the company operates in a consulting capacity, deployments to client environments were handled manually using Kubernetes manifests. Despite having no prior experience with AWS, I successfully completed the modernization and deployment process within four months through self-learning and hands-on implementation.   
 
-**Whant Next**
+**Looking Ahead**
 
 Recently, I’ve been exploring Helidon SE, a lightweight web framework developed by Oracle. What stood out to me is its simplicity and performance, but more importantly, its explicit and minimalistic design—there’s no dependency injection or hidden abstraction layers, which makes the codebase easier to reason about and debug. This level of control feels refreshing compared to heavier frameworks, and it’s inspired me to adopt Helidon SE for an upcoming side project where I want full visibility into how everything works under the hood. 
 
